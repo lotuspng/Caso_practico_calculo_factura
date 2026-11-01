@@ -1,5 +1,14 @@
 Lógica de programación
+
+
+
 Estudiante: Erick Joel Valdez Jimenez
+
+
+
+
+Matricula: 2026-1792
+
 
 
 
