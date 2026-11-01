@@ -1,5 +1,10 @@
 Lógica de programación
 Estudiante: Erick Joel Valdez Jimenez
+
+
+
+
+
 Este programa calcula totales en base a cantidad y precio de producto individual, si este pasa de 5,000 se produce un 10% de descuento
 datos de entrada:
 cantidad de objetos
